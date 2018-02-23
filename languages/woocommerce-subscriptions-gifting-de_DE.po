@@ -60,7 +60,7 @@ msgid ""
 "subscription renewal first."
 msgstr ""
 "Du kannst keine weiteren Produkte zum Warenkorb hinzufügen. Bitte bezahle "
-"zuerst für die Erneuerung des Abonnements."
+"zuerst für die Verlängerung des Abonnements."
 
 #: includes/class-wcsg-checkout.php:178
 msgid "Shipping to the subscription recipient."
@@ -192,7 +192,7 @@ msgstr "Abonnement"
 
 #: includes/emails/class-wcsg-email-completed-renewal-order.php:13
 msgid "Completed Renewal Order - Recipient"
-msgstr "Erneuerungs-Bestellung fertiggestellt - Empfänger"
+msgstr "Verlängerungs-Bestellung fertiggestellt - Empfänger"
 
 #: includes/emails/class-wcsg-email-completed-renewal-order.php:14
 msgid ""
@@ -200,32 +200,32 @@ msgid ""
 "renewal order is marked complete and usually indicates that the item for "
 "that renewal period has been shipped."
 msgstr ""
-"Erneuerungs-Bestellung Komplett E-Mails werden an den Empfänger gesendet, "
-"wenn eine Erneuerungs-Bestellung als fertiggestellt markiert wurde und das "
-"bedeutet häufig, dass der Artikel für diesen Erneuerungszeitraum verschickt "
+"Verlängerungs-Bestellung Komplett E-Mails werden an den Empfänger gesendet, "
+"wenn eine Verlängerungs-Bestellung als fertiggestellt markiert wurde und das "
+"bedeutet häufig, dass der Artikel für diesen Verlängerungszeitraum verschickt "
 "wurde."
 
 #: includes/emails/class-wcsg-email-completed-renewal-order.php:17
 msgid "Your renewal order is complete"
-msgstr "Deine Erneuerungs-Bestllung ist fertiggestellt"
+msgstr "Deine Verlängerungs-Bestllung ist fertiggestellt"
 
 #: includes/emails/class-wcsg-email-completed-renewal-order.php:18
 msgid "Your {blogname} renewal order from {order_date} is complete"
 msgstr ""
-"Deine Erneuerungs-Bestllung bei {blogname} vom {order_date} ist "
+"Deine Verlängerungs-Bestllung bei {blogname} vom {order_date} ist "
 "fertiggestellt"
 
 #: includes/emails/class-wcsg-email-completed-renewal-order.php:21
 msgid "Your subscription renewal order is complete - download your files"
 msgstr ""
-"Deine Erneuerungs-Bestllung ist fertiggestellt - lade deine Dateien herunter"
+"Deine Verlängerungs-Bestellung ist fertiggestellt - lade deine Dateien herunter"
 
 #: includes/emails/class-wcsg-email-completed-renewal-order.php:22
 msgid ""
 "Your {blogname} subscription renewal order from {order_date} is complete - "
 "download your files"
 msgstr ""
-"Deine Erneuerungs-Bestllung bei {blogname} vom {order_date} ist "
+"Deine Verlängerungs-Bestllung bei {blogname} vom {order_date} ist "
 "fertiggestellt - lade deine Dateien herunter"
 
 #: includes/emails/class-wcsg-email-customer-new-account.php:17
@@ -259,8 +259,8 @@ msgid ""
 "details."
 msgstr ""
 "Das hier ist eine Bestellbestätigung die an den Empfänger gesendet wird, "
-"sobald die Bezahlung für die Erneuerung des Abonnements fertiggestellt wurde."
-" Sie enthält Details zur Erneuerungs-Bestellung."
+"sobald die Bezahlung für die Verlängerung des Abonnements fertiggestellt wurde."
+" Sie enthält Details zur Verlängerungs-Bestellung."
 
 #: includes/emails/class-wcsg-email-processing-renewal-order.php:17
 msgid "Thank you for your order"
@@ -269,7 +269,7 @@ msgstr "Vielen Dank für Ihre Bestellung"
 #: includes/emails/class-wcsg-email-processing-renewal-order.php:18
 msgid "Your {blogname} renewal order receipt from {order_date}"
 msgstr ""
-"Der Beleg für die Erneuerungs-Bestellung bei {blogname} vom {order_date}"
+"Der Beleg für die Verlängerungs-Bestellung bei {blogname} vom {order_date}"
 
 #: includes/emails/class-wcsg-email-recipient-new-initial-order.php:15
 msgid "New Initial Order - Recipient"
