@@ -365,7 +365,7 @@ msgstr[1] "Abonnements"
 #: templates/emails/recipient-new-initial-order.php:18
 #, php-format
 msgid " Details of the %s are shown below."
-msgstr "Details zu %s werden unten angezeigt."
+msgstr " Details zum %s werden unten angezeigt."
 
 #: templates/emails/plain/recipient-new-initial-order.php:15
 #: templates/emails/plain/recipient-new-initial-order.php:22
