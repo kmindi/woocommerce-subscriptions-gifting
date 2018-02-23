@@ -306,7 +306,7 @@ msgid ""
 "account for you to manage the subscription."
 msgstr ""
 "%1$s hat gerade ein Abonnement für dich bei %2$s gekauft. Deshalb haben wir "
-"ein Benutzerkonto für dich zur Verwaltung des Abonnement erstellt."
+"ein Benutzerkonto für dich zur Verwaltung des Abonnements erstellt."
 
 #: templates/emails/new-recipient-customer.php:19
 #: templates/emails/plain/new-recipient-customer.php:17
