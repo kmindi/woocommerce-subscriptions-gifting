@@ -405,7 +405,7 @@ msgid ""
 "You may access your account area to view your new %1$s here: %2$sMy "
 "Account%3$s."
 msgstr ""
-"Du kannst auf deinen Benutzer-Konten-Bereich, um deine neue %1$s anzusehen, "
+"Du kannst auf deinen Benutzer-Konten-Bereich, um dein neues %1$s anzusehen, "
 "hier erreichen: %2$sMein Konto%3$s."
 
 #: templates/emails/recipient-new-initial-order.php:50
