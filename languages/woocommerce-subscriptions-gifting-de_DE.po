@@ -43,12 +43,12 @@ msgstr ""
 
 #: includes/class-wcsg-admin.php:102 templates/html-add-recipient.php:4
 msgid "This is a gift"
-msgstr "Das hier ist ein Geschenkt"
+msgstr "Das hier ist ein Geschenk"
 
 #: includes/class-wcsg-cart.php:79 includes/class-wcsg-checkout.php:115
 #: includes/class-wcsg-product.php:38
 msgid "There was an error with your request. Please try again.."
-msgstr "Es gab einen Fehler bei der Anfrage. Bitte versuchen Sie es erneut."
+msgstr "Es gab einen Fehler bei der Anfrage. Bitte versuche es erneut."
 
 #: includes/class-wcsg-cart.php:93
 msgid "Recipient: "
@@ -148,8 +148,8 @@ msgid ""
 "There was an error with your request to update your account. Please try "
 "again.."
 msgstr ""
-"Es gab einen Fehler bei der Anfrage Ihr Benutzerkonto zu aktualisieren. "
-"Bitte versuchen Sie es erneut."
+"Es gab einen Fehler bei der Anfrage dein Benutzerkonto zu aktualisieren. "
+"Bitte versuche es erneut."
 
 #: includes/class-wcsg-recipient-details.php:140
 msgid "New Password"
@@ -264,7 +264,7 @@ msgstr ""
 
 #: includes/emails/class-wcsg-email-processing-renewal-order.php:17
 msgid "Thank you for your order"
-msgstr "Vielen Dank für Ihre Bestellung"
+msgstr "Vielen Dank für Deine Bestellung"
 
 #: includes/emails/class-wcsg-email-processing-renewal-order.php:18
 msgid "Your {blogname} renewal order receipt from {order_date}"
